@@ -1,4 +1,4 @@
-name: StopBuggingme
+name: STOP Bugging ME
 favicon: null
 layout_spectrum: 0.8519575363025069
 typography_spectrum: 0.713600676972419
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#000000'
+    - '#009200'
+    - '#919191'
+    - '#8bd58d'
   brandStrength: 0.30768879665993154
   lightness: 0.6346740934532136
   saturation: 0.2581745027564466
